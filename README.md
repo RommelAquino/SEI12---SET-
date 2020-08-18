@@ -4,5 +4,4 @@ Sets are data types that can store values in no particular order. This sort of l
 
 
 
-Rommel - One paragraph outlining different types of questions that can be asked/solved using the given topic.
 
